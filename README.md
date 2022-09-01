@@ -17,7 +17,7 @@
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
-
+##### Change Path
 ```bash
 echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/davidchen/.zprofile
 eval "$(/opt/homebrew/bin/brew shellenv)"
@@ -48,6 +48,7 @@ brew install git
 - liveserver
 - eslint
 - prettier
+- markdown preview github styling
 
 
 #### Setting up GitHub
