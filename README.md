@@ -50,7 +50,6 @@ brew install git
 - prettier
 - markdown preview github styling
 
-
 #### Setting up GitHub
 
 ```bash
